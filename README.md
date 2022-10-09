@@ -9,7 +9,7 @@
 ---
 
 👋 Hi <br>
-I am Manoj M .This project is a simple application that stores camera captured footage only on motion detection
+I am Manoj M and this project is a simple application that stores camera captured footage only on motion detection
 
 ```
 📦 cctv footage memory reducer
